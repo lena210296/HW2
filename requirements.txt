@@ -1,3 +1,4 @@
 requests
 ipython
-Flask
+Flask~=2.3.2
+Faker~=18.9.0
